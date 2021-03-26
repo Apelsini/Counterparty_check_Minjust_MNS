@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.615,C:\Users\user\Documents\Embarcadero\Studio\Projects\counterparty_check\Counterparty_check.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\counterparty_check\TabbedApplication.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,C:\Users\user\Documents\Embarcadero\Studio\Projects\counterparty_check\Counterparty_check.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\counterparty_check\Counterparty_checkWin.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
